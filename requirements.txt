@@ -10,4 +10,6 @@ wikipedia
 youtube_search
 langgraph
 chromadb
-langchain-chroma
+langchain_huggingface
+#langchain-chroma
+unstructured
